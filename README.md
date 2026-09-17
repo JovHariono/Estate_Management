@@ -77,3 +77,11 @@ runs end to end, section by section:
 2. Run all cells top to bottom in Jupyter (`pandas`, `numpy`, `matplotlib`,
    `seaborn`, `scipy` required).
 3. writes the four output CSVs to `output_capstone/`.
+
+## Link Tableau
+
+[tableau](https://public.tableau.com/views/EstateManagementSinarmasLand/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## Link PPT
+
+[ppt](https://www.canva.com/design/DAHVcXAn-Zs/ZNFyQ5lmN6lfGyshvt0bWA/edit)
