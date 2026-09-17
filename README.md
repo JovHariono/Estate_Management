@@ -1,4 +1,4 @@
-# SML Estate Management — IPL Collection & Utility Billing Audit
+# Sinarmas Land - SML Estate Management — IPL Collection & Utility Billing Audit
 
 Capstone Project, Module 2 (Purwadhika) — a data cleaning, EDA, and business
 analytics audit of a Sinarmas Land-style township management portfolio: IPL
